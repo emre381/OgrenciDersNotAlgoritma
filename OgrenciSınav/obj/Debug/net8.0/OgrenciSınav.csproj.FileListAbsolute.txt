@@ -1,0 +1,14 @@
+C:\Users\cigo_\source\repos\OgrenciSınav\OgrenciSınav\bin\Debug\net8.0\OgrenciSınav.exe
+C:\Users\cigo_\source\repos\OgrenciSınav\OgrenciSınav\bin\Debug\net8.0\OgrenciSınav.deps.json
+C:\Users\cigo_\source\repos\OgrenciSınav\OgrenciSınav\bin\Debug\net8.0\OgrenciSınav.runtimeconfig.json
+C:\Users\cigo_\source\repos\OgrenciSınav\OgrenciSınav\bin\Debug\net8.0\OgrenciSınav.dll
+C:\Users\cigo_\source\repos\OgrenciSınav\OgrenciSınav\bin\Debug\net8.0\OgrenciSınav.pdb
+C:\Users\cigo_\source\repos\OgrenciSınav\OgrenciSınav\obj\Debug\net8.0\OgrenciSınav.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cigo_\source\repos\OgrenciSınav\OgrenciSınav\obj\Debug\net8.0\OgrenciSınav.AssemblyInfoInputs.cache
+C:\Users\cigo_\source\repos\OgrenciSınav\OgrenciSınav\obj\Debug\net8.0\OgrenciSınav.AssemblyInfo.cs
+C:\Users\cigo_\source\repos\OgrenciSınav\OgrenciSınav\obj\Debug\net8.0\OgrenciSınav.csproj.CoreCompileInputs.cache
+C:\Users\cigo_\source\repos\OgrenciSınav\OgrenciSınav\obj\Debug\net8.0\OgrenciSınav.dll
+C:\Users\cigo_\source\repos\OgrenciSınav\OgrenciSınav\obj\Debug\net8.0\refint\OgrenciSınav.dll
+C:\Users\cigo_\source\repos\OgrenciSınav\OgrenciSınav\obj\Debug\net8.0\OgrenciSınav.pdb
+C:\Users\cigo_\source\repos\OgrenciSınav\OgrenciSınav\obj\Debug\net8.0\OgrenciSınav.genruntimeconfig.cache
+C:\Users\cigo_\source\repos\OgrenciSınav\OgrenciSınav\obj\Debug\net8.0\ref\OgrenciSınav.dll
